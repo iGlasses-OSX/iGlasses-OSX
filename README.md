@@ -40,12 +40,6 @@ The <a href="#">colour temperature</a> control addresses one of the most visible
 
 ---
 
-<p align="center">
-  <img src="https://static.macupdate.com/screenshots/345684/m/iglasses-screenshot.png?v=1663916628" alt="iGlasses screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 Sharpness adjustment is particularly valuable for older or lower-cost webcams whose lenses produce a soft image that reads as poor quality on the receiving end of a video call. Adding controlled edge sharpening through iGlasses improves perceived resolution noticeably without introducing the halos and artefacts that excessive sharpening creates at the pixel level.
